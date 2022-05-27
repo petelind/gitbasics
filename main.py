@@ -3,5 +3,6 @@ def sub_call(args: dict):
 
 
 if '__main__:
-   sub_call('Name')y
+   sub_call('Name')
+
 
